@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SoundPool</string>
+    <string name="title">SoundPool</string>
+    <string name="volume">Volum</string>
+    <string name="song1">Song1  \u25B6</string>
+    <string name="song2">Song2 \u25B6</string>
+    <string name="play">Play </string>
+    <string name="stop">Stop \u2B1B</string>
+</resources>
